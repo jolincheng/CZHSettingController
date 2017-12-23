@@ -1,4 +1,6 @@
 # CZHSettingController
+ios 快速创建静态动态单元格的设置页面
+
 ![QQ20171223-122025-HD1.gif](http://upload-images.jianshu.io/upload_images/6709174-a2ec66907d91c58d.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
